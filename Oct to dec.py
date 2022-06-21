@@ -11,5 +11,3 @@ def oct_to_dec(oct):
     for numz in range(len(flist)):
         value += flist[numz]
     return value
-
-print(oct_to_dec(304))
