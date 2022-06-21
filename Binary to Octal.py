@@ -14,6 +14,3 @@ def bin_to_oct(b):
         digits.append(dig_1)
         s = ''.join(map(str, digits))
     return int(s)
-
-
-print(bin_to_oct(100010))
