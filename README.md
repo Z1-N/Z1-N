@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Z1-N
 - 👀 I’m interested in IT support & Web Design
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Web Design
+- 🌱 I’m currently learning UI/UX design
 - 📫 How to reach me alltayeb112003@gmail.com
 
 <!---
