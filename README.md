@@ -7,4 +7,5 @@
 Z1-N/Z1-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Eltayib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z1-N)](https://github.com/anuraghazra/github-readme-stats)
 Nice to meet ya 😁
